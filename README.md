@@ -1,2 +1,2 @@
-# holbertonschool-shell
-Project #2
+#!/bin/bash
+#2 Project, working on shell basics
